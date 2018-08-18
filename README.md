@@ -11,8 +11,11 @@ A logistic company require an efficient way to place the P number of packages in
 
 wTruck  number of used trucks + load of the truck with the highest load * modifier
 
-# Contents
-* ILP Model and dataset
-* Heuristics
+## Contents
+# OPL
+Model and small dataset
 
+# Heuristics
 Written in python, comprised of an intance generator and a solver.
+
+* Final report removed from public repository.
